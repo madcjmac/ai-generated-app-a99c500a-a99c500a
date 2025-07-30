@@ -1,6 +1,6 @@
 import React from 'react'
 
-export function Themeprovider() {
+export function ThemeProvider() {
   return (
     <div className="p-4">
       <h2 className="text-xl font-semibold mb-2">Themeprovider</h2>
